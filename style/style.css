@@ -1,0 +1,22 @@
+.search-bar {
+    margin:20px;
+    
+}
+.searchbox{
+    border-radius: 6px;
+    width: 40%;
+}
+.title{
+    font-weight: bolder;
+    padding : 10px 10px 10px 10px;
+    text-align: center;
+
+}
+
+.description{
+    border: solid black 1px;
+    border-radius: 1px; 
+    padding:10px 10px 10px 10px;
+    
+    
+}
